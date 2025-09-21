@@ -1,5 +1,6 @@
 # zoo800_HW_week2_Neece
 A repository for Quanitative Methods week 2 homework responses. 
+Author: Jillian Neece
 
 # Objective 1
 Search terms: "seed dispers*" OR "regeneration", 2023-2025, "conifer"
